@@ -1,0 +1,3 @@
+TDMS_to_CSV_loop.vi
+
+Will loop through a long TDMS file and load segments at a time. It reads exactly what is on the tdms file.
